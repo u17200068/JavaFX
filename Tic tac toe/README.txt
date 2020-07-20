@@ -1,7 +1,7 @@
 **************************************************************************
 *                                 README                                 *
 *  This application is a 2-player game of Tic-Tac-Toe and to run this    *
-*  application you must execute the Start.java file.                     *
+*  application you must execute the exe or jar file in the src->runnable.*
 *                                                                        *
 *------------------------------------------------------------------------*
 *                                                                        *
